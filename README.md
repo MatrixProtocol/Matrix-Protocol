@@ -8,8 +8,6 @@
 
 > Revolutionary enterprise blockchain infrastructure providing security-as-a-service, cross-chain interoperability, and advanced DeFi solutions.
 
-![MATRIX Protocol Banner](https://raw.githubusercontent.com/matrix-protocol/assets/main/banner.png)
-
 ## 🚀 Overview
 
 MATRIX Protocol bridges the gap between enterprise security requirements and decentralized finance, offering a comprehensive suite of blockchain infrastructure tools built on Solana's high-performance foundation.
@@ -214,7 +212,7 @@ Events: 'whale-transaction', 'holder-update', 'price-change'
 
 ## 🤝 Contributing
 
-We welcome contributions from the community! Please read our [Contributing Guide](CONTRIBUTING.md) for details on our development process.
+We welcome contributions from the community! Please read our [Contributing Guide] for details on our development process.
 
 ### Development Guidelines
 - Follow TypeScript best practices
@@ -268,5 +266,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *Revolutionizing enterprise blockchain infrastructure one block at a time.*
 
 ---
-
-![Footer](https://raw.githubusercontent.com/matrix-protocol/assets/main/footer.png)
