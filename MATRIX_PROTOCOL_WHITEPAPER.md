@@ -4,8 +4,6 @@
 
 ---
 
-![MATRIX Protocol Logo](https://raw.githubusercontent.com/matrix-protocol/assets/main/logo.png)
-
 **📄 Whitepaper:** [View Full Document](MATRIX_PROTOCOL_WHITEPAPER.md) | **PDF Version Coming Soon**
 
 **Official Website:** [Coming Soon]  
