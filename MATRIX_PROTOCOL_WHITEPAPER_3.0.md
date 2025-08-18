@@ -363,14 +363,14 @@ The MATRIX token serves as the native utility token for the Matrix Protocol ecos
 ┌─────────────────────────────────────┐
 │            Token Allocation         │
 ├─────────────────────────────────────┤
-│  • Community & Rewards: 35%         │
-│  • Liquidity Pool: 20%              │
-│  • Team & Development: 15%          │
-│  • Strategic Partnerships: 10%      │
-│  • Marketing & Growth: 8%           │
-│  • Staking Rewards: 5%              │
-│  • Reserve Fund: 4.85%              │
-│  • Micro Presale: 0.15%             │
+│  • Presale: 15%                     │
+│  • Liquidity Pool: 10%              │
+│  • Team & Founders: 20%             │
+│  • Strategic Partnerships: 5%       │
+│  • Treasury & Development: 20%      │
+│  • Staking Rewards: 25%             │
+│  • Reserve Fund: 5%                 │
+│                                     │
 └─────────────────────────────────────┘
 ```
 
@@ -405,9 +405,9 @@ The MATRIX token serves as the native utility token for the Matrix Protocol ecos
 | Stakeholder | Vesting Period | Cliff Period | Release Schedule |
 |-------------|----------------|--------------|------------------|
 | Team | 4 years | 1 year | Linear monthly |
-| Advisors | 2 years | 6 months | Linear monthly |
-| Private Sale | 18 months | 3 months | Linear monthly |
-| Ecosystem | 5 years | 0 months | Milestone-based |
+| Staking | 10 years | Linear daily |
+| Alpha Vetted | 20% TGE | 4 months | Linear monthly |
+| T & D | 4 years | 6 months | Milestone-based |
 
 ---
 
@@ -780,12 +780,10 @@ Join us in building the future of blockchain security. Visit [matrix-protocol.te
 ---
 
 **Contact Information:**
-- Website: https://matrix-protocol.tech
+- Website: https://matrixprotocol.tech
 - Email: contact@matrixprotocol.tech
-- Documentation: https://docs.matrix-protocol.tech
-- GitHub: https://github.com/matrix-protocol
-- Twitter: @MatrixProtocol
-- Discord: https://discord.gg/matrix-protocol
+- GitHub: https://github.com/matrixprotocol
+- Twitter: @MatrixSecurity_
 
 ---
 
