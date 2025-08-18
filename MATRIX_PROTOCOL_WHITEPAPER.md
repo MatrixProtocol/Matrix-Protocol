@@ -360,13 +360,13 @@ The MATRIX token serves as the native utility token for the Matrix Protocol ecos
 ┌─────────────────────────────────────┐
 │            Token Allocation         │
 ├─────────────────────────────────────┤
-│  • Team & Advisors: 20%             │
-│  • Private Sale: 15%                │
-│  • Public Sale: 10%                 │
-│  • Ecosystem Development: 25%       │
-│  • Security Rewards: 15%            │
-│  • Liquidity Provision: 10%         │
-│  • Treasury: 5%                     │
+│  • Team & Advisors: TBA             │
+│  • Private Sale: TBA                │
+│  • Public Sale: TBA                 │
+│  • Ecosystem Development: TBA       │
+│  • Security Rewards: TBA            │
+│  • Liquidity Provision: TBA         │
+│  • Treasury: TBA                     │
 └─────────────────────────────────────┘
 ```
 
