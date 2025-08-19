@@ -353,7 +353,6 @@ Matrix Protocol is deeply integrated with the Solana ecosystem:
 The MATRIX token serves as the native utility token for the Matrix Protocol ecosystem:
 
 - **Total Supply**: 1,000,000,000 MATRIX
-- **Initial Circulating Supply**: 1,500,000 MATRIX (0.15% micro presale)
 - **Blockchain**: Solana (SPL Token)
 - **Contract Address**: [To be deployed]
 
@@ -406,7 +405,7 @@ The MATRIX token serves as the native utility token for the Matrix Protocol ecos
 |-------------|----------------|--------------|------------------|
 | Team | 4 years | 1 year | Linear monthly |
 | Staking | 10 years | Linear daily |
-| Alpha Vetted | 20% TGE | 4 months | Linear monthly |
+| Alpha Vetted | 20% TGE | No Cliff months | Linear monthly |
 | T & D | 4 years | 6 months | Milestone-based |
 
 ---
@@ -701,7 +700,6 @@ The MATRIX token serves as the native utility token for the Matrix Protocol ecos
 - **Chief Technology Officer**: 15+ years in cybersecurity and AI
 - **Lead AI Engineer**: Former OpenAI researcher with expertise in language models
 - **Blockchain Architect**: Solana ecosystem developer with 5+ years experience
-- **Security Engineer**: Former Google security team member
 
 #### Business Leadership
 - **Chief Executive Officer**: 20+ years in enterprise software and SaaS
@@ -775,7 +773,7 @@ Matrix Protocol is actively seeking:
 - **Investors**: Strategic and financial partners supporting our growth vision
 - **Community Members**: Developers, security researchers, and blockchain enthusiasts
 
-Join us in building the future of blockchain security. Visit [matrix-protocol.tech](https://matrix-protocol.tech) to learn more.
+Join us in building the future of blockchain security. Visit [matrix-protocol.tech](https://matrixprotocol.tech) to learn more.
 
 ---
 
